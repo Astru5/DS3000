@@ -1,0 +1,310 @@
+﻿Variable,Description,Category,Change Type
+HSCL019,Accessories,Clothing,New
+HSCL020,Athletic footwear,Clothing,New
+HSCL023,Children's wear (under 14 years),Clothing,New
+HSCL024,Clothing (men and boys),Clothing,New
+HSCL027,Clothing (women and girls),Clothing,New
+HSCL030,Clothing and accessories,Clothing,New
+HSCL021,Clothing and cloth diapers (children),Clothing,New
+HSCL017,"Clothing material, yarn, thread and other notions",Clothing,New
+HSCL016,Clothing services,Clothing,New
+HSCL022,Footwear (children),Clothing,New
+HSCL025,Footwear (men and boys),Clothing,New
+HSCL028,Footwear (women and girls),Clothing,New
+HSCL014,"Laundromats, dry-cleaning and laundry services",Clothing,New
+HSCL026,Men's and boys' wear (14 years and over),Clothing,New
+HSCL015,"Services for clothing, footwear and jewellery",Clothing,New
+HSCL018,Watches and jewellery,Clothing,New
+HSCL029,Women's and girls' wear (14 years and over),Clothing,New
+HSED025,School supplies,Education,New
+HSED024,Textbooks,Education,New
+HSFD1100,Ready-to-cook meal delivery services,Food,New
+HSGC003B,Bingos,Games of Chance,New
+HSGC003A,"Casinos, slot machines, and video lottery terminals",Games of Chance,New
+HSHC063,Cannabis for medical use,Health Care,New
+HSHC004A,Non-prescribed medicines and pharmaceutical products,Health Care,New
+HSHC041,Health care equipment,Health Care,New
+HSHC040,Health care supplies,Health Care,New
+HSHC044,Health care supplies and equipment,Health Care,New
+HSHC052,Major health care equipment,Health Care,New
+HSHC026,Non-prescription eye wear (including sunglasses),Health Care,New
+HSHC013,Other eye-care goods,Health Care,New
+HSHC053,Other health care equipment,Health Care,New
+HSHC064,"Prescribed medicines, pharmaceutical products/cannabis for medical use",Health Care,New
+HSHC061,Private health and dental plan premiums,Health Care,New
+HSHE009A,All other electric equipment and appliances,House Furnishings,New
+HSHE015A,"All other household equipment, parts and accessories",House Furnishings,New
+HSHF008A,All other household furnishings,House Furnishings,New
+HSHE009D,Attachments and parts for major appliances,House Furnishings,New
+HSHF008B,Curtains and interior blinds,House Furnishings,New
+HSHE013B,"Cutlery, flatware and silverware",House Furnishings,New
+HSHF008C,"Glass mirrors, mirrors and picture frames",House Furnishings,New
+HSHE011C,Hardware,House Furnishings,New
+HSHE015B,Home security equipment,House Furnishings,New
+HSHF007,Lamps and lampshades,House Furnishings,New
+HSHE014,Luggage,House Furnishings,New
+HSHE017,Maintenance/rental/repairs/services related to household furnishings/equipment,House Furnishings,New
+HSHE051,Microwave ovens and cooking appliances,House Furnishings,New
+HSHE012B,"Other lawn, garden and snow-removal tools and equipment attachments",House Furnishings,New
+HSHE013A,Other non-electric kitchen and cooking equipment,House Furnishings,New
+HSHE012C,Parts and accessories for garden tools,House Furnishings,New
+HSHE050,Refrigerators and freezers,House Furnishings,New
+HSHE024,Rental of heating equipment,House Furnishings,New
+HSHE009C,"Sewing machines, vacuum cleaners and other rug cleaning equipment",House Furnishings,New
+HSHE009B,Small electric food preparation appliances,House Furnishings,New
+HSHE052,"Washers, dryers and dishwashers",House Furnishings,New
+HSCL030S,Clothing and accessories,Household Expenditures (Category Summary),New
+HSWH050S,Owned principal residence improvements and renovations,Household Expenditures (Category Summary),New
+HSEP011S,Personal insurance premiums and retirement/pension fund contributions,Household Expenditures (Category Summary),New
+HSTA018S,"Tobacco products, alcoholic beverages and cannabis for non-medical use",Household Expenditures (Category Summary),New
+HSCC022,Child care in the home,Household Operations,New
+HSCC021,Child care outside the home,Household Operations,New
+HSCS030,Communications,Household Operations,New
+HSHO052,Pet food and pet-related goods,Household Operations,New
+HSCS020,"Postal, courier, delivery and other communication services",Household Operations,New
+HSHO050,Purchase of pets,Household Operations,New
+HSCS021,Telephones and other equipment,Household Operations,New
+HSME038,Administration fees for brokers and stock and bond commissions,Miscellaneous expenditures,New
+HSME024,Convenience fees,Miscellaneous expenditures,New
+HSME045,Dues to unions and professional associations,Miscellaneous expenditures,New
+HSME039,Financial services,Miscellaneous expenditures,New
+HSME036,Fines,Miscellaneous expenditures,New
+HSME037,Funeral services,Miscellaneous expenditures,New
+HSME040,Other miscellaneous goods and services,Miscellaneous expenditures,New
+HSME030,Service charges for banks and other financial institutions,Miscellaneous expenditures,New
+HSMG010,Alimony and child support,Money Gifts,New
+HSMG009,Charitable contributions,Money Gifts,New
+HSEP013,Canada and Quebec pension plan contributions,Premiums and pension contributions,New
+HSEP014,Employer pension plan contributions,Premiums and pension contributions,New
+HSEP012,Employment insurance and Quebec parental insurance premiums,Premiums and pension contributions,New
+HSEP011,Personal insurance premiums and retirement/pension fund contributions,Premiums and pension contributions,New
+HSEP015,Retirement and pension fund payments,Premiums and pension contributions,New
+HSRO010,Services related to reading materials (e.g. photocopying/library fees),Reading Material,New
+HSWH050B,Improvements and alterations to owned principal residence,Real Estate,New
+HSWH050,Owned principal residence improvements and renovations,Real Estate,New
+HSOI030,Spending on contract work/labour of total spending on improvements/renovations,Real Estate,New
+HSOI030Z,Spending on non-contract work/labour of total spending on improvements/renovations,Real Estate,New
+HSRE111,App downloads,Recreation,New
+HSRE080,Audio equipment (portable and non-portable) and home theatre systems,Recreation,New
+HSRE120,"Camcorders, cameras, parts, accessories and related equipment",Recreation,New
+HSRE005,Children's toys,Recreation,New
+HSRE013,Computer software,Recreation,New
+HSRE082,"DVD players, Blu-Ray players and other video equipment and accessories",Recreation,New
+HSRE114,E-book readers,Recreation,New
+HSRE112,Game downloads,Recreation,New
+HSRE065,Live performing arts events,Recreation,New
+HSRE064,Live sporting events,Recreation,New
+HSRV022,Maintenance and repairs for recreational vehicles,Recreation,New
+HSRV005M1,Non-motorized watercrafts and Motorized watercrafts,Recreation,New
+HSRV081,Other expenses for recreational vehicles,Recreation,New
+HSRE032,Other recreational equipment,Recreation,New
+HSRE142,Other recreational services,Recreation,New
+HSRE004,Outdoor play equipment and accessories,Recreation,New
+HSRV007,Purchase of bicycles,Recreation,New
+HSRV005B,Purchase of fifth wheel/travel trailers,Recreation,New
+HSRV003A,Purchase of motorcycles,Recreation,New
+HSRV020,Purchase of recreational vehicles,Recreation,New
+HSRV003B,Purchase of snowmobiles,Recreation,New
+HSRE030,Recreational equipment and related services,Recreation,New
+HSRE128,"Rental, maintenance/repairs of sports, athletic/recreational equipment",Recreation,New
+HSRE146,Sporting services,Recreation,New
+HSRE003,"Sports, athletic and recreation equipment",Recreation,New
+HSRE125,"Sports, athletic and recreational equipment and related services",Recreation,New
+HSRV021,Supplies and parts for recreational vehicles,Recreation,New
+HSRE116,Televisions,Recreation,New
+HSRV005M2,"Tent trailers, travel trailers, truck campers, motorhomes, utility trailers and other types of recreational vehicles",Recreation,New
+HSRE091,Use of recreational facilities and fees - other recreational activities,Recreation,New
+HSRE014,Video game systems and parts for personal computers,Recreation,New
+HSRE119,Wearable electronic devices,Recreation,New
+HSSH060,Communication and security services for owned secondary residences,Shelter,New
+HSSH062,Electricity and fuel for owned secondary residences,Shelter,New
+HSSH030B,Electricity for principal accommodation,Shelter,New
+HSSH034B,"Heating oil, wood and other fuel for principal accommodation",Shelter,New
+HSSH030C,Natural gas for principal accommodation,Shelter,New
+HSSH046A,Other expenses associated with owned secondary residences,Shelter,New
+HSSH034A,Propane for principal accommodation,Shelter,New
+HSSH061,"Property/school taxes, water/sewage charges for owned secondary residences",Shelter,New
+HSSH046B,Real estate commissions paid for the sale of secondary residence(s),Shelter,New
+HSSH082,Repairs and maintenance of all owned principal residences,Shelter,New
+HSSH082B,Repairs and maintenance to owned principal residence,Shelter,New
+HSOI040,Spending on contract work/labour of total spending for repairs/maintenance,Shelter,New
+HSOI040Z,Spending on non-contract work/labour of total spending for repairs/maintenance,Shelter,New
+HSSH030A,Water and sewage for principal accommodation,Shelter,New
+HSTA009,Beer,Tobacco and alcohol,New
+HSTA016,Cannabis for non-medical use,Tobacco and alcohol,New
+HSTA020,Cigarettes,Tobacco and alcohol,New
+HSTA010,Other alcoholic beverages purchased from stores,Tobacco and alcohol,New
+HSTA015,"Other tobacco products, smokers' supplies and e-cigarettes",Tobacco and alcohol,New
+HSTA008,Self-made alcoholic beverages,Tobacco and alcohol,New
+HSTA018,"Tobacco products, alcoholic beverages and cannabis for non-medical use",Tobacco and alcohol,New
+HSTR060,Household moving and storage services,Transportation,New
+HSTR059,Peer-to-peer ride services,Transportation,New
+HSTR085,Public and private vehicle insurance premiums,Transportation,New
+HSTR070,Public transportation,Transportation,New
+HSTR014,Regular fees for leased trucks,Transportation,New
+HSTR013,Regular fees for leased vans,Transportation,New
+HSTR112,Regular fees for leased vans and trucks,Transportation,New
+HSTR071,"Vehicle operation, security and communication services",Transportation,New
+HSCM001J,Boys (aged 4 to 14): Accessories,Clothing,No Longer Available
+HSCM001H,Boys (aged 4 to 14): Athletic footwear,Clothing,No Longer Available
+HSCM001G,Boys (aged 4 to 14): Clothing,Clothing,No Longer Available
+HSCM001I,Boys (aged 4 to 14): Other footwear,Clothing,No Longer Available
+HSCM001M,Boys (aged 4 to 14): Watches and Jewellery,Clothing,No Longer Available
+HSCI002,Children's clothing (under 4 years old),Clothing,No Longer Available
+HSCI004,Children's footwear (under 4 years old),Clothing,No Longer Available
+HSCI001,Children's wear (under 4 years),Clothing,No Longer Available
+HSCL001,Clothing,Clothing,No Longer Available
+HSCL007,"Clothing fabric, yarn, thread, and other notions",Clothing,No Longer Available
+HSCT010,Clothing gifts to non-household members,Clothing,No Longer Available
+HSCL013,"Clothing rental, tailoring, alteration and other services",Clothing,No Longer Available
+HSCL010,Clothing services,Clothing,No Longer Available
+HSCT013,"Gifts of clothing, accessories or jewellery for non-household members",Clothing,No Longer Available
+HSCT011,Gifts of footwear for non-household members (aged 12 and under),Clothing,No Longer Available
+HSCT012,Gifts of footwear for non-household members (aged 13 and over),Clothing,No Longer Available
+HSCF001J,Girls (aged 4 to 14): Accessories,Clothing,No Longer Available
+HSCF001H,Girls (aged 4 to 14): Athletic footwear,Clothing,No Longer Available
+HSCF001G,Girls (aged 4 to 14): Clothing,Clothing,No Longer Available
+HSCF001I,Girls (aged 4 to 14): Other footwear,Clothing,No Longer Available
+HSCF001M,Girls (aged 4 to 14): Watches and Jewellery,Clothing,No Longer Available
+HSCL012,Laundromats and self-service dry cleaning,Clothing,No Longer Available
+HSCL011,Laundry and dry-cleaning services,Clothing,No Longer Available
+HSCM001D,Men (aged 15 and over): Accessories,Clothing,No Longer Available
+HSCM001B,Men (aged 15 and over): Athletic footwear,Clothing,No Longer Available
+HSCM001A,Men (aged 15 and over): Clothing,Clothing,No Longer Available
+HSCM001F,Men (aged 15 and over): Jewellery,Clothing,No Longer Available
+HSCM001C,Men (aged 15 and over): Other footwear,Clothing,No Longer Available
+HSCM001E,Men (aged 15 and over): Watches,Clothing,No Longer Available
+HSCM001,Men's and boys' clothing (4 years and over),Clothing,No Longer Available
+HSCM201,Men's and Boys' wear (14 years old and over),Clothing,No Longer Available
+HSCM101,Men's and Boys' wear (4 to 13 years old),Clothing,No Longer Available
+HSCF001D,Women (aged 15 and over): Accessories,Clothing,No Longer Available
+HSCF001B,Women (aged 15 and over): Athletic footwear,Clothing,No Longer Available
+HSCF001A,Women (aged 15 and over): Clothing,Clothing,No Longer Available
+HSCF001F,Women (aged 15 and over): Jewellery,Clothing,No Longer Available
+HSCF001C,Women (aged 15 and over): Other footwear,Clothing,No Longer Available
+HSCF001E,Women (aged 15 and over): Watches,Clothing,No Longer Available
+HSCF001,Women's and girls' clothing (4 years and over),Clothing,No Longer Available
+HSCF201,Women's and Girls' wear (14 years old and over),Clothing,No Longer Available
+HSCF101,Women's and Girls' wear (4 to 13 years old),Clothing,No Longer Available
+HSED010,School supplies,Education,No Longer Available
+HSED020,Textbooks,Education,No Longer Available
+HSMG007,Charitable contributions to religious organizations,Gifts of Money and Contributions,No Longer Available
+HSMG008,Contributions to other charitable organizations,Gifts of Money and Contributions,No Longer Available
+HSMG005,Support payments to a former spouse or partner,Gifts of Money and Contributions,No Longer Available
+HSMG006,Total charitable contributions,Gifts of Money and Contributions,No Longer Available
+HSGS002,Goods and services purchased outside Canada,Goods and Services by Purchase Method,No Longer Available
+HSGS000Z,Other,Goods and Services by Purchase Method,No Longer Available
+HSTT001B,Total expenditure,Goods and Services by Purchase Method,No Longer Available
+HSHC024,Dental plan premiums,Health Care,No Longer Available
+HSHC004A,Health care supplies and equipment,Health Care,No Longer Available
+HSHC004B,Other medicines and pharmaceutical products,Health Care,No Longer Available
+HSHC023,Private health care plan premiums,Health Care,No Longer Available
+HSCL001S,Clothing,Household Expenditures (Category Summary),No Longer Available
+HSWH002S,Improvements and alterations to owned principal residence,Household Expenditures (Category Summary),No Longer Available
+HSTA001S,Tobacco products and alcoholic beverages,Household Expenditures (Category Summary),No Longer Available
+HSEP001S,Total personal insurance premiums and retirement/pension contributions,Household Expenditures (Category Summary),No Longer Available
+HSHF005B,Antiques,Household Furnishings and Equipment,No Longer Available
+HSHF005,"Art, antiques and decorative ware",Household Furnishings and Equipment,No Longer Available
+HSHE005,Cooking appliances,Household Furnishings and Equipment,No Longer Available
+HSHE007,Dishwashers,Household Furnishings and Equipment,No Longer Available
+HSHE011A,Hardware,Household Furnishings and Equipment,No Longer Available
+HSHE016,Maintenance and repairs of household furnishings and equipment,Household Furnishings and Equipment,No Longer Available
+HSHE004,Microwave ovens,Household Furnishings and Equipment,No Longer Available
+HSHE012M,"Parts and accessories for garden tools and other equipment, tools, accessories and parts",Household Furnishings and Equipment,No Longer Available
+HSHE003,Refrigerators and freezers,Household Furnishings and Equipment,No Longer Available
+HSHE021,Rental of heating equipment,Household Furnishings and Equipment,No Longer Available
+HSHE006,Washers and dryers,Household Furnishings and Equipment,No Longer Available
+HSCC014,Child care in the home,Household Operation,No Longer Available
+HSCC012,Child care offered in private households,Household Operation,No Longer Available
+HSCC011,Child care offered in school,Household Operation,No Longer Available
+HSCC002,Child care outside the home,Household Operation,No Longer Available
+HSCS001,Communications,Household Operation,No Longer Available
+HSCC003,Day care centres,Household Operation,No Longer Available
+HSCS012,Landline telephone equipment,Household Operation,No Longer Available
+HSCS013,Mobile telephone equipment,Household Operation,No Longer Available
+HSCC013,Other child care outside the home,Household Operation,No Longer Available
+HSHO004,Pet food,Household Operation,No Longer Available
+HSCS010,"Postal, courier and other communication services",Household Operation,No Longer Available
+HSHO005,Purchase of pets and related pet goods,Household Operation,No Longer Available
+HSCS011,Telephones and equipment,Household Operation,No Longer Available
+HSME005,Administration fees for brokers and others,Miscellaneous Expenditures,No Longer Available
+HSME011,"Deposits, fines, and lost or stolen money",Miscellaneous Expenditures,No Longer Available
+HSME013,Dues to unions and professional associations,Miscellaneous Expenditures,No Longer Available
+HSME002,Financial services,Miscellaneous Expenditures,No Longer Available
+HSME115,Funeral services (excluding pre-paid funeral services),Miscellaneous Expenditures,No Longer Available
+HSME015,"Funeral services, cemetery plots and upkeep, and tombstones",Miscellaneous Expenditures,No Longer Available
+HSME215,Pre-paid funeral services,Miscellaneous Expenditures,No Longer Available
+HSME003,Service charges for banks and other financial institutions,Miscellaneous Expenditures,No Longer Available
+HSME004,Stock and bond commissions,Miscellaneous Expenditures,No Longer Available
+HSME010,Total of other miscellaneous goods and services,Miscellaneous Expenditures,No Longer Available
+HSEP006,Annuity contracts and transfers to RRIFs,Personal Insurance and Pension,No Longer Available
+HSEP002,Employment and Quebec parental insurance premiums,Personal Insurance and Pension,No Longer Available
+HSEP008,Employment insurance premiums,Personal Insurance and Pension,No Longer Available
+HSEP005,Payments to retirement or pension funds,Personal Insurance and Pension,No Longer Available
+HSEP009,Quebec parental insurance premiums,Personal Insurance and Pension,No Longer Available
+HSEP003,Retirement and pension fund payments,Personal Insurance and Pension,No Longer Available
+HSEP004,Total Canada/Quebec Pension Plan payments,Personal Insurance and Pension,No Longer Available
+HSEP001,Total personal insurance premiums and retirement/pension contributions,Personal Insurance and Pension,No Longer Available
+HSRO006,Services related to reading materials (e.g. library fees),Reading Materials and Other Printed Matter,No Longer Available
+HSOI010,Contract work or hired labour for improvements and alterations,Real Estate,No Longer Available
+HSWH002,Improvements and alterations to owned principal residence,Real Estate,No Longer Available
+HSWH002B,Improvements and alterations to owned principal residence,Real Estate,No Longer Available
+HSOI010Z,Non-contract work or hired labour for improvements and alterations,Real Estate,No Longer Available
+HSRE042,Audio equipment,Recreation,No Longer Available
+HSRV006,"Bicycles, parts and accessories",Recreation,No Longer Available
+HSRE046,Blu-ray players,Recreation,No Longer Available
+HSRE017,Cameras and accessories,Recreation,No Longer Available
+HSRE005M,Children's toys and outdoor play equipment and accessories,Recreation,No Longer Available
+HSRE022,Collectors' items,Recreation,No Longer Available
+HSRE047,DVD players,Recreation,No Longer Available
+HSRE071,"Fees for sports, sports and recreation facilities, and health clubs",Recreation,No Longer Available
+HSRE049,Home theatre systems,Recreation,No Longer Available
+HSRV001A,Motorcycles,Recreation,No Longer Available
+HSRV001M1,Non-motorized watercrafts and Motorized watercrafts,Recreation,No Longer Available
+HSRE044,Non-portable audio equipment,Recreation,No Longer Available
+HSRE078,Other recreational activities and services,Recreation,No Longer Available
+HSRE026,Other recreational equipment and related services,Recreation,No Longer Available
+HSRE043,Portable audio equipment,Recreation,No Longer Available
+HSRV002,Purchase of recreational vehicles,Recreation,No Longer Available
+HSRE002,Recreation equipment and associated services,Recreation,No Longer Available
+HSRV001B,Snowmobiles,Recreation,No Longer Available
+HSRE008,Sports and athletic equipment,Recreation,No Longer Available
+HSRV015M,Supplies and parts for recreational vehicles and other expenses for operation of recreational vehicles,Recreation,No Longer Available
+HSRV001M2,"Tent trailers, travel trailers, truck campers, motorhomes, utility trailers and other types of recreational vehicles",Recreation,No Longer Available
+HSRV001D,Travel trailers,Recreation,No Longer Available
+HSRE048,"TVs, VCRs, video cameras, other TV/video components",Recreation,No Longer Available
+HSRE070,Use of recreation facilities,Recreation,No Longer Available
+HSOI020,Contract work or hired labour for repairs and maintenance,Shelter,No Longer Available
+HSSH032,Electricity,Shelter,No Longer Available
+HSSH032A,Electricity charges for owned principal residence,Shelter,No Longer Available
+HSSH032B,Electricity charges for rented principal residence,Shelter,No Longer Available
+HSSH045,"Electricity, water and fuel for owned vacation homes or other secondary residences",Shelter,No Longer Available
+HSSH035,Heating oil,Shelter,No Longer Available
+HSSH035A,Heating oil charges for owned principal residence,Shelter,No Longer Available
+HSSH035B,Heating oil charges for rented principal residence,Shelter,No Longer Available
+HSSH033,Natural gas,Shelter,No Longer Available
+HSSH033A,Natural gas charges for owned principal residence,Shelter,No Longer Available
+HSSH033B,Natural gas charges for rented principal residence,Shelter,No Longer Available
+HSOI020Z,Non-contract work or hired labour for repairs and maintenance,Shelter,No Longer Available
+HSSH036,Propane for heating and cooking,Shelter,No Longer Available
+HSSH036A,Propane for heating and cooking for owned principal residence,Shelter,No Longer Available
+HSSH036B,Propane for heating and cooking for rented principal residence,Shelter,No Longer Available
+HSSH043,Property taxes and sewage charges for owned vacation homes or other secondary residences,Shelter,No Longer Available
+HSSH046M,Real estate commissions paid for the sale and other expenses associated with vacation homes and other secondary residences,Shelter,No Longer Available
+HSSH012,Repairs and maintenance to owned principal residence,Shelter,No Longer Available
+HSSH012B,Repairs and maintenance to owned principal residence,Shelter,No Longer Available
+HSSH031,Water and sewage,Shelter,No Longer Available
+HSSH031A,Water and sewage charges for owned principal residence,Shelter,No Longer Available
+HSSH031B,Water and sewage charges for rented principal residence,Shelter,No Longer Available
+HSSH037,Wood and other fuel for heating and cooking,Shelter,No Longer Available
+HSSH037A,Wood and other fuel for heating and cooking for owned principal residence,Shelter,No Longer Available
+HSSH037B,Wood and other fuel for heating and cooking for rented principal residence,Shelter,No Longer Available
+HSTA002A,Cigarettes,Tobacco and Alcohol,No Longer Available
+HSTA002B,Other tobacco products and smokers' supplies,Tobacco and Alcohol,No Longer Available
+HSTA001,Tobacco products and alcoholic beverages,Tobacco and Alcohol,No Longer Available
+HSTR057,"Household moving, storage services and delivery services",Transportation,No Longer Available
+HSTR037,"Other automobile, van and truck operation services",Transportation,No Longer Available
+HSTR050,Public transportation,Transportation,No Longer Available
+HSTR014M,Regular fees for leased trucks and vans,Transportation,No Longer Available
+HSTR035,Security and communication services for vehicles,Transportation,No Longer Available
+HSTR032,"Vehicle insurance premiums for automobiles, trucks and vans",Transportation,No Longer Available
