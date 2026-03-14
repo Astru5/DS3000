@@ -1,7 +1,7 @@
 ﻿Order,Variable,Description,Hierarchy Description,Category
 1,EHYBASPOP,Total Population,Total Population,Basics
-2,EHYBASHHD,Total Households,Total Households,Basics
-3,EHYBASHPOP,Total Household Population,Total Household Population,Basics
+2,EHYBASHHD,Total Private Occupied Dwellings (Households),Total Private Occupied Dwellings (Households),Basics
+3,EHYBASHPOP,Total Population Living In Households (Household Population),Total Population Living In Households (Household Population),Basics
 4,EHYBAS12P,Total Population 12 Year Or Over,Total Population 12 Year Or Over,Basics
 5,EHYBAS15P,Total Population 15 Years Or Over,Total Population 15 Years Or Over,Basics
 6,EHYBAS18P,Total Population 18 Years Or Over,Total Population 18 Years Or Over,Basics
@@ -468,8 +468,8 @@
 467,ECYASQKM,Total Area,Total Area,Basics
 468,ECYALSQKM,Total Land Area,Total Land Area,Basics
 469,ECYBASPOP,Total Population,Total Population,Basics
-470,ECYBASHHD,Total Households,Total Households,Basics
-471,ECYBASHPOP,Total Household Population,Total Household Population,Basics
+470,ECYBASHHD,Total Private Occupied Dwellings (Households),Total Private Occupied Dwellings (Households),Basics
+471,ECYBASHPOP,Total Population Living In Households (Household Population),Total Population Living In Households (Household Population),Basics
 472,ECYBAS12P,Total Population 12 Year Or Over,Total Population 12 Year Or Over,Basics
 473,ECYBAS15P,Total Population 15 Years Or Over,Total Population 15 Years Or Over,Basics
 474,ECYBAS18P,Total Population 18 Years Or Over,Total Population 18 Years Or Over,Basics
@@ -1086,90 +1086,90 @@
 1085,ECYTIMFIJI,Fiji,                Fiji,Household Population by Total Immigrants and Place of Birth
 1086,ECYTIMOOCE,Other Oceania And Other,                Other Oceania And Other,Household Population by Total Immigrants and Place of Birth
 1087,ECYTIMNPER,Non-Permanent Resident,    Non-Permanent Resident,Household Population by Total Immigrants and Place of Birth
-1088,ECYRIMHPOP,Household Population For Recent Immigration By Place Of Birth,Household Population For Recent Immigration By Place Of Birth,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1089,ECYRIMRIM,Total Recent Immigration,    Total Recent Immigration,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1090,ECYRIMAM,Americas,        Americas,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1091,ECYRIMNAM,North America,            North America,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1092,ECYRIMCAM,Central America,            Central America,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1093,ECYRIMMEXI,Mexico,                Mexico,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1094,ECYRIMCAO,Other Central America,                Other Central America,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1095,ECYRIMCB,Caribbean And Bermuda,            Caribbean And Bermuda,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1096,ECYRIMCUBA,Cuba,                Cuba,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1097,ECYRIMHAIT,Haiti,                Haiti,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1098,ECYRIMJAMA,Jamaica,                Jamaica,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1099,ECYRIMCBO,Other Caribbean And Bermuda,                Other Caribbean And Bermuda,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1100,ECYRIMSAM,South America,            South America,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1101,ECYRIMBRAZ,Brazil,                Brazil,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1102,ECYRIMCOLO,Colombia,                Colombia,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1103,ECYRIMVENE,Venezuela,                Venezuela,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1104,ECYRIMSAO,Other South America,                Other South America,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1105,ECYRIMEU,Europe,        Europe,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1106,ECYRIMWEU,Western Europe,            Western Europe,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1107,ECYRIMFRAN,France,                France,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1108,ECYRIMGERM,Germany,                Germany,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1109,ECYRIMWEO,Other Western Europe,                Other Western Europe,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1110,ECYRIMEEU,Eastern Europe,            Eastern Europe,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1111,ECYRIMMOLD,Moldova,                Moldova,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1112,ECYRIMPOLA,Poland,                Poland,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1113,ECYRIMROMA,Romania,                Romania,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1114,ECYRIMRUSS,Russian Federation,                Russian Federation,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1115,ECYRIMUKRA,Ukraine,                Ukraine,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1116,ECYRIMEEO,Other Eastern Europe,                Other Eastern Europe,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1117,ECYRIMNEU,Northern Europe,            Northern Europe,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1118,ECYRIMUK,United Kingdom,                United Kingdom,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1119,ECYRIMNEO,Other Northern Europe,                Other Northern Europe,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1120,ECYRIMSEU,Southern Europe,            Southern Europe,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1121,ECYRIMAF,Africa,        Africa,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1122,ECYRIMWAF,Western Africa,            Western Africa,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1123,ECYRIMCOTE,Côte d'Ivoire,                Côte d'Ivoire,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1124,ECYRIMNIGE,Nigeria,                Nigeria,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1125,ECYRIMWAFO,Other Western Africa,                Other Western Africa,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1126,ECYRIMEAF,Eastern Africa,            Eastern Africa,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1127,ECYRIMERIT,Eritrea,                Eritrea,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1128,ECYRIMETHI,Ethiopia,                Ethiopia,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1129,ECYRIMKENY,Kenya,                Kenya,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1130,ECYRIMSOMA,Somalia,                Somalia,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1131,ECYRIMEAFO,Other Eastern Africa,                Other Eastern Africa,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1132,ECYRIMCAF,Central Africa,            Central Africa,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1133,ECYRIMNAF,Northern Africa,            Northern Africa,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1134,ECYRIMALGE,Algeria,                Algeria,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1135,ECYRIMEGYP,Egypt,                Egypt,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1136,ECYRIMMORO,Morocco,                Morocco,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1137,ECYRIMTUNI,Tunisia,                Tunisia,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1138,ECYRIMNAFO,Other Northern Africa,                Other Northern Africa,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1139,ECYRIMSAF,Southern Africa,            Southern Africa,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1140,ECYRIMA,Asia,        Asia,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1141,ECYRIMWCM,West Central Asia And Middle East,            West Central Asia And Middle East,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1142,ECYRIMAFGH,Afghanistan,                Afghanistan,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1143,ECYRIMIRAN,Iran,                Iran,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1144,ECYRIMIRAQ,Iraq,                Iraq,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1145,ECYRIMISRA,Israel,                Israel,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1146,ECYRIMLEBA,Lebanon,                Lebanon,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1147,ECYRIMSAUD,Saudi Arabia,                Saudi Arabia,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1148,ECYRIMSYRI,Syria,                Syria,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1149,ECYRIMTURK,Turkey,                Turkey,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1150,ECYRIMUAE,United Arab Emirates,                United Arab Emirates,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1151,ECYRIMWCMO,Other West Central Asia And Middle East,                Other West Central Asia And Middle East,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1152,ECYRIMEA,Eastern Asia,            Eastern Asia,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1153,ECYRIMCHIN,China,                China,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1154,ECYRIMHONG,Hong Kong Special Administrative Region,                Hong Kong Special Administrative Region,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1155,ECYRIMJAPA,Japan,                Japan,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1156,ECYRIMSKOR,South Korea,                South Korea,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1157,ECYRIMEAO,Other Eastern Asia,                Other Eastern Asia,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1158,ECYRIMSEA,Southeast Asia,            Southeast Asia,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1159,ECYRIMPHIL,Philippines,                Philippines,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1160,ECYRIMVIET,Viet Nam,                Viet Nam,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1161,ECYRIMSEAO,Other Southeast Asia,                Other Southeast Asia,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1162,ECYRIMSAS,Southern Asia,            Southern Asia,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1163,ECYRIMBANG,Bangladesh,                Bangladesh,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1164,ECYRIMINDI,India,                India,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1165,ECYRIMNEPA,Nepal,                Nepal,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1166,ECYRIMPAKI,Pakistan,                Pakistan,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1167,ECYRIMSRI,Sri Lanka,                Sri Lanka,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1168,ECYRIMSASO,Other Southern Asia,                Other Southern Asia,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1169,ECYRIMOCE,Oceania and Other,        Oceania and Other,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1170,ECYRIMAUSS,Australia,            Australia,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
-1171,ECYRIMOCEO,Other Oceania And Other,            Other Oceania And Other,Household Population by Recent Immigrants (2017 - Present) and Place of Birth
+1088,ECYRIMHPOP,Household Population For Recent Immigration By Place Of Birth,Household Population For Recent Immigration By Place Of Birth,Household Population by Recent Immigrants and Place of Birth
+1089,ECYRIMRIM,Total Recent Immigration,    Total Recent Immigration,Household Population by Recent Immigrants and Place of Birth
+1090,ECYRIMAM,Americas,        Americas,Household Population by Recent Immigrants and Place of Birth
+1091,ECYRIMNAM,North America,            North America,Household Population by Recent Immigrants and Place of Birth
+1092,ECYRIMCAM,Central America,            Central America,Household Population by Recent Immigrants and Place of Birth
+1093,ECYRIMMEXI,Mexico,                Mexico,Household Population by Recent Immigrants and Place of Birth
+1094,ECYRIMCAO,Other Central America,                Other Central America,Household Population by Recent Immigrants and Place of Birth
+1095,ECYRIMCB,Caribbean And Bermuda,            Caribbean And Bermuda,Household Population by Recent Immigrants and Place of Birth
+1096,ECYRIMCUBA,Cuba,                Cuba,Household Population by Recent Immigrants and Place of Birth
+1097,ECYRIMHAIT,Haiti,                Haiti,Household Population by Recent Immigrants and Place of Birth
+1098,ECYRIMJAMA,Jamaica,                Jamaica,Household Population by Recent Immigrants and Place of Birth
+1099,ECYRIMCBO,Other Caribbean And Bermuda,                Other Caribbean And Bermuda,Household Population by Recent Immigrants and Place of Birth
+1100,ECYRIMSAM,South America,            South America,Household Population by Recent Immigrants and Place of Birth
+1101,ECYRIMBRAZ,Brazil,                Brazil,Household Population by Recent Immigrants and Place of Birth
+1102,ECYRIMCOLO,Colombia,                Colombia,Household Population by Recent Immigrants and Place of Birth
+1103,ECYRIMVENE,Venezuela,                Venezuela,Household Population by Recent Immigrants and Place of Birth
+1104,ECYRIMSAO,Other South America,                Other South America,Household Population by Recent Immigrants and Place of Birth
+1105,ECYRIMEU,Europe,        Europe,Household Population by Recent Immigrants and Place of Birth
+1106,ECYRIMWEU,Western Europe,            Western Europe,Household Population by Recent Immigrants and Place of Birth
+1107,ECYRIMFRAN,France,                France,Household Population by Recent Immigrants and Place of Birth
+1108,ECYRIMGERM,Germany,                Germany,Household Population by Recent Immigrants and Place of Birth
+1109,ECYRIMWEO,Other Western Europe,                Other Western Europe,Household Population by Recent Immigrants and Place of Birth
+1110,ECYRIMEEU,Eastern Europe,            Eastern Europe,Household Population by Recent Immigrants and Place of Birth
+1111,ECYRIMMOLD,Moldova,                Moldova,Household Population by Recent Immigrants and Place of Birth
+1112,ECYRIMPOLA,Poland,                Poland,Household Population by Recent Immigrants and Place of Birth
+1113,ECYRIMROMA,Romania,                Romania,Household Population by Recent Immigrants and Place of Birth
+1114,ECYRIMRUSS,Russian Federation,                Russian Federation,Household Population by Recent Immigrants and Place of Birth
+1115,ECYRIMUKRA,Ukraine,                Ukraine,Household Population by Recent Immigrants and Place of Birth
+1116,ECYRIMEEO,Other Eastern Europe,                Other Eastern Europe,Household Population by Recent Immigrants and Place of Birth
+1117,ECYRIMNEU,Northern Europe,            Northern Europe,Household Population by Recent Immigrants and Place of Birth
+1118,ECYRIMUK,United Kingdom,                United Kingdom,Household Population by Recent Immigrants and Place of Birth
+1119,ECYRIMNEO,Other Northern Europe,                Other Northern Europe,Household Population by Recent Immigrants and Place of Birth
+1120,ECYRIMSEU,Southern Europe,            Southern Europe,Household Population by Recent Immigrants and Place of Birth
+1121,ECYRIMAF,Africa,        Africa,Household Population by Recent Immigrants and Place of Birth
+1122,ECYRIMWAF,Western Africa,            Western Africa,Household Population by Recent Immigrants and Place of Birth
+1123,ECYRIMCOTE,Côte d'Ivoire,                Côte d'Ivoire,Household Population by Recent Immigrants and Place of Birth
+1124,ECYRIMNIGE,Nigeria,                Nigeria,Household Population by Recent Immigrants and Place of Birth
+1125,ECYRIMWAFO,Other Western Africa,                Other Western Africa,Household Population by Recent Immigrants and Place of Birth
+1126,ECYRIMEAF,Eastern Africa,            Eastern Africa,Household Population by Recent Immigrants and Place of Birth
+1127,ECYRIMERIT,Eritrea,                Eritrea,Household Population by Recent Immigrants and Place of Birth
+1128,ECYRIMETHI,Ethiopia,                Ethiopia,Household Population by Recent Immigrants and Place of Birth
+1129,ECYRIMKENY,Kenya,                Kenya,Household Population by Recent Immigrants and Place of Birth
+1130,ECYRIMSOMA,Somalia,                Somalia,Household Population by Recent Immigrants and Place of Birth
+1131,ECYRIMEAFO,Other Eastern Africa,                Other Eastern Africa,Household Population by Recent Immigrants and Place of Birth
+1132,ECYRIMCAF,Central Africa,            Central Africa,Household Population by Recent Immigrants and Place of Birth
+1133,ECYRIMNAF,Northern Africa,            Northern Africa,Household Population by Recent Immigrants and Place of Birth
+1134,ECYRIMALGE,Algeria,                Algeria,Household Population by Recent Immigrants and Place of Birth
+1135,ECYRIMEGYP,Egypt,                Egypt,Household Population by Recent Immigrants and Place of Birth
+1136,ECYRIMMORO,Morocco,                Morocco,Household Population by Recent Immigrants and Place of Birth
+1137,ECYRIMTUNI,Tunisia,                Tunisia,Household Population by Recent Immigrants and Place of Birth
+1138,ECYRIMNAFO,Other Northern Africa,                Other Northern Africa,Household Population by Recent Immigrants and Place of Birth
+1139,ECYRIMSAF,Southern Africa,            Southern Africa,Household Population by Recent Immigrants and Place of Birth
+1140,ECYRIMA,Asia,        Asia,Household Population by Recent Immigrants and Place of Birth
+1141,ECYRIMWCM,West Central Asia And Middle East,            West Central Asia And Middle East,Household Population by Recent Immigrants and Place of Birth
+1142,ECYRIMAFGH,Afghanistan,                Afghanistan,Household Population by Recent Immigrants and Place of Birth
+1143,ECYRIMIRAN,Iran,                Iran,Household Population by Recent Immigrants and Place of Birth
+1144,ECYRIMIRAQ,Iraq,                Iraq,Household Population by Recent Immigrants and Place of Birth
+1145,ECYRIMISRA,Israel,                Israel,Household Population by Recent Immigrants and Place of Birth
+1146,ECYRIMLEBA,Lebanon,                Lebanon,Household Population by Recent Immigrants and Place of Birth
+1147,ECYRIMSAUD,Saudi Arabia,                Saudi Arabia,Household Population by Recent Immigrants and Place of Birth
+1148,ECYRIMSYRI,Syria,                Syria,Household Population by Recent Immigrants and Place of Birth
+1149,ECYRIMTURK,Turkey,                Turkey,Household Population by Recent Immigrants and Place of Birth
+1150,ECYRIMUAE,United Arab Emirates,                United Arab Emirates,Household Population by Recent Immigrants and Place of Birth
+1151,ECYRIMWCMO,Other West Central Asia And Middle East,                Other West Central Asia And Middle East,Household Population by Recent Immigrants and Place of Birth
+1152,ECYRIMEA,Eastern Asia,            Eastern Asia,Household Population by Recent Immigrants and Place of Birth
+1153,ECYRIMCHIN,China,                China,Household Population by Recent Immigrants and Place of Birth
+1154,ECYRIMHONG,Hong Kong Special Administrative Region,                Hong Kong Special Administrative Region,Household Population by Recent Immigrants and Place of Birth
+1155,ECYRIMJAPA,Japan,                Japan,Household Population by Recent Immigrants and Place of Birth
+1156,ECYRIMSKOR,South Korea,                South Korea,Household Population by Recent Immigrants and Place of Birth
+1157,ECYRIMEAO,Other Eastern Asia,                Other Eastern Asia,Household Population by Recent Immigrants and Place of Birth
+1158,ECYRIMSEA,Southeast Asia,            Southeast Asia,Household Population by Recent Immigrants and Place of Birth
+1159,ECYRIMPHIL,Philippines,                Philippines,Household Population by Recent Immigrants and Place of Birth
+1160,ECYRIMVIET,Viet Nam,                Viet Nam,Household Population by Recent Immigrants and Place of Birth
+1161,ECYRIMSEAO,Other Southeast Asia,                Other Southeast Asia,Household Population by Recent Immigrants and Place of Birth
+1162,ECYRIMSAS,Southern Asia,            Southern Asia,Household Population by Recent Immigrants and Place of Birth
+1163,ECYRIMBANG,Bangladesh,                Bangladesh,Household Population by Recent Immigrants and Place of Birth
+1164,ECYRIMINDI,India,                India,Household Population by Recent Immigrants and Place of Birth
+1165,ECYRIMNEPA,Nepal,                Nepal,Household Population by Recent Immigrants and Place of Birth
+1166,ECYRIMPAKI,Pakistan,                Pakistan,Household Population by Recent Immigrants and Place of Birth
+1167,ECYRIMSRI,Sri Lanka,                Sri Lanka,Household Population by Recent Immigrants and Place of Birth
+1168,ECYRIMSASO,Other Southern Asia,                Other Southern Asia,Household Population by Recent Immigrants and Place of Birth
+1169,ECYRIMOCE,Oceania and Other,        Oceania and Other,Household Population by Recent Immigrants and Place of Birth
+1170,ECYRIMAUSS,Australia,            Australia,Household Population by Recent Immigrants and Place of Birth
+1171,ECYRIMOCEO,Other Oceania And Other,            Other Oceania And Other,Household Population by Recent Immigrants and Place of Birth
 1172,ECYPIMHPOP,Household Population For Period Of Immigration,Household Population For Period Of Immigration,Household Population by Period of Immigration
 1173,ECYPIMNI,Non-Immigrants,    Non-Immigrants,Household Population by Period of Immigration
 1174,ECYPIMIM,Immigrants,    Immigrants,Household Population by Period of Immigration
@@ -1200,8 +1200,8 @@
 1199,ECYNCA_U18,Non-Citizens Under 18,        Non-Citizens Under 18,Household Population by Citizenship
 1200,ECYNCA_18P,Non-Citizens 18 Or Older,        Non-Citizens 18 Or Older,Household Population by Citizenship
 1201,P3YBASPOP,Total Population,Total Population,Basics
-1202,P3YBASHHD,Total Households,Total Households,Basics
-1203,P3YBASHPOP,Total Household Population,Total Household Population,Basics
+1202,P3YBASHHD,Total Private Occupied Dwellings (Households),Total Private Occupied Dwellings (Households),Basics
+1203,P3YBASHPOP,Total Population Living In Households (Household Population),Total Population Living In Households (Household Population),Basics
 1204,P3YBAS12P,Total Population 12 Year Or Over,Total Population 12 Year Or Over,Basics
 1205,P3YBAS15P,Total Population 15 Years Or Over,Total Population 15 Years Or Over,Basics
 1206,P3YBAS18P,Total Population 18 Years Or Over,Total Population 18 Years Or Over,Basics
@@ -1666,8 +1666,8 @@
 1665,P3YTIMOOCE,Other Oceania And Other,                Other Oceania And Other,Household Population by Total Immigrants and Place of Birth
 1666,P3YTIMNPER,Non-Permanent Resident,    Non-Permanent Resident,Household Population by Total Immigrants and Place of Birth
 1667,P5YBASPOP,Total Population,Total Population,Basics
-1668,P5YBASHHD,Total Households,Total Households,Basics
-1669,P5YBASHPOP,Total Household Population,Total Household Population,Basics
+1668,P5YBASHHD,Total Private Occupied Dwellings (Households),Total Private Occupied Dwellings (Households),Basics
+1669,P5YBASHPOP,Total Population Living In Households (Household Population),Total Population Living In Households (Household Population),Basics
 1670,P5YBAS12P,Total Population 12 Year Or Over,Total Population 12 Year Or Over,Basics
 1671,P5YBAS15P,Total Population 15 Years Or Over,Total Population 15 Years Or Over,Basics
 1672,P5YBAS18P,Total Population 18 Years Or Over,Total Population 18 Years Or Over,Basics
@@ -2132,8 +2132,8 @@
 2131,P5YTIMOOCE,Other Oceania And Other,                Other Oceania And Other,Household Population by Total Immigrants and Place of Birth
 2132,P5YTIMNPER,Non-Permanent Resident,    Non-Permanent Resident,Household Population by Total Immigrants and Place of Birth
 2133,P0YBASPOP,Total Population,Total Population,Basics
-2134,P0YBASHHD,Total Households,Total Households,Basics
-2135,P0YBASHPOP,Total Household Population,Total Household Population,Basics
+2134,P0YBASHHD,Total Private Occupied Dwellings (Households),Total Private Occupied Dwellings (Households),Basics
+2135,P0YBASHPOP,Total Population Living In Households (Household Population),Total Population Living In Households (Household Population),Basics
 2136,P0YBAS12P,Total Population 12 Year Or Over,Total Population 12 Year Or Over,Basics
 2137,P0YBAS15P,Total Population 15 Years Or Over,Total Population 15 Years Or Over,Basics
 2138,P0YBAS18P,Total Population 18 Years Or Over,Total Population 18 Years Or Over,Basics

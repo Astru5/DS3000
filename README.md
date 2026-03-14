@@ -10,3 +10,10 @@ data/
 ```
 
 This must be set up on your own machine as data is sensitive and cannot be pushed to github, hence the gitignore for data files.
+
+Files to put into `raw/`:
+```
+DemoStats_(DST)_2025_2025_GEO.csv
+HouseholdSpend_(HHS)_2025_GEO_P1.csv
+HouseholdSpend_(HHS)_2025_GEO_P2.csv
+```

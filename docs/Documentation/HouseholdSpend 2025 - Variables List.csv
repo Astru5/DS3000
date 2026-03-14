@@ -1,0 +1,474 @@
+﻿ORDER,VARIABLE,DESCRIPTION,CATEGORY
+1,HSBASHHD,Total Households,Basics
+2,HSHNIAGG,Household Income,Basics
+3,HSAGDISPIN,Household Disposable Income,Basics
+4,HSAGDISCIN,Household Discretionary Income,Basics
+5,HSTT001,Total Expenditure,Household Expenditures (Category Summary)
+5,HSTT001,Total Expenditure,Household Expenditures (Category Summary)
+6,HSTE001,Total current consumption and financial transfers,Household Expenditures (Category Summary)
+6,HSTE001,Total current consumption and financial transfers,Household Expenditures (Category Summary)
+7,HSTX001,Income taxes,Household Expenditures (Category Summary)
+7,HSTX001,Income taxes,Household Expenditures (Category Summary)
+8,HSTC001,Total current consumption,Household Expenditures (Category Summary)
+8,HSTC001,Total current consumption,Household Expenditures (Category Summary)
+9,HSFD001S,Food expenditures,Household Expenditures (Category Summary)
+9,HSFD001S,Food expenditures,Household Expenditures (Category Summary)
+10,HSHO001S,Household operations,Household Expenditures (Category Summary)
+10,HSHO001S,Household operations,Household Expenditures (Category Summary)
+11,HSHF001S,Household furnishings and equipment,Household Expenditures (Category Summary)
+11,HSHF001S,Household furnishings and equipment,Household Expenditures (Category Summary)
+12,HSTR001S,Transportation,Household Expenditures (Category Summary)
+12,HSTR001S,Transportation,Household Expenditures (Category Summary)
+13,HSHC001S,Health care,Household Expenditures (Category Summary)
+13,HSHC001S,Health care,Household Expenditures (Category Summary)
+14,HSPC001S,Personal care,Household Expenditures (Category Summary)
+14,HSPC001S,Personal care,Household Expenditures (Category Summary)
+15,HSRE001S,Recreation,Household Expenditures (Category Summary)
+15,HSRE001S,Recreation,Household Expenditures (Category Summary)
+16,HSRO001S,Reading materials and other printed matter,Household Expenditures (Category Summary)
+16,HSRO001S,Reading materials and other printed matter,Household Expenditures (Category Summary)
+17,HSTA018S,"Tobacco products, alcoholic beverages and cannabis for non-medical use",Household Expenditures (Category Summary)
+17,HSTA018S,"Tobacco products, alcoholic beverages and cannabis for non-medical use",Household Expenditures (Category Summary)
+18,HSGC001S,Games of chance,Household Expenditures (Category Summary)
+18,HSGC001S,Games of chance,Household Expenditures (Category Summary)
+19,HSME001S,Miscellaneous expenditures,Household Expenditures (Category Summary)
+19,HSME001S,Miscellaneous expenditures,Household Expenditures (Category Summary)
+20,HSSH001S,Shelter,Household Expenditures (Category Summary)
+20,HSSH001S,Shelter,Household Expenditures (Category Summary)
+21,HSCL030S,Clothing and accessories,Household Expenditures (Category Summary)
+21,HSCL030S,Clothing and accessories,Household Expenditures (Category Summary)
+22,HSED002S,Education,Household Expenditures (Category Summary)
+22,HSED002S,Education,Household Expenditures (Category Summary)
+23,HSEP011S,Personal insurance premiums and retirement/pension fund contributions,Household Expenditures (Category Summary)
+23,HSEP011S,Personal insurance premiums and retirement/pension fund contributions,Household Expenditures (Category Summary)
+24,HSMG001S,"Gifts of money, support payments and charitable contributions",Household Expenditures (Category Summary)
+24,HSMG001S,"Gifts of money, support payments and charitable contributions",Household Expenditures (Category Summary)
+25,HSTE001ZBS,Total Non Current Consumption,Household Expenditures (Category Summary)
+25,HSTE001ZBS,Total Non Current Consumption,Household Expenditures (Category Summary)
+26,HSWH040S,Net purchase price of owned residences,Household Expenditures (Category Summary)
+26,HSWH040S,Net purchase price of owned residences,Household Expenditures (Category Summary)
+27,HSWH041S,Net purchase price of owned secondary residences,Household Expenditures (Category Summary)
+27,HSWH041S,Net purchase price of owned secondary residences,Household Expenditures (Category Summary)
+28,HSWH042S,Net purchase price of other owned properties,Household Expenditures (Category Summary)
+28,HSWH042S,Net purchase price of other owned properties,Household Expenditures (Category Summary)
+29,HSWH050S,Owned principal residence improvements and renovations,Household Expenditures (Category Summary)
+29,HSWH050S,Owned principal residence improvements and renovations,Household Expenditures (Category Summary)
+30,HSWH028S,Improvements and renovations of secondary residences,Household Expenditures (Category Summary)
+30,HSWH028S,Improvements and renovations of secondary residences,Household Expenditures (Category Summary)
+31,HSFD001,Food expenditures,Food
+32,HSFD003,Food purchased from stores,Food
+33,HSFD990,Food purchased from restaurants,Food
+34,HSFD991,Restaurant meals,Food
+35,HSFD992,Restaurant dinners,Food
+36,HSFD993,Restaurant lunches,Food
+37,HSFD994,Restaurant breakfasts,Food
+38,HSFD995,Restaurant snacks and beverages,Food
+39,HSFD1100,Ready-to-cook meal delivery services,Food
+40,HSHO001,Household operations,Household Operations
+41,HSHO010,Household cleaning supplies and equipment,Household Operations
+42,HSHO011,Detergent and other soaps,Household Operations
+43,HSHO013,Cleaning equipment (non-electric),Household Operations
+44,HSHO012,Other household cleaning supplies,Household Operations
+45,HSHO014,"Paper, plastic and foil supplies",Household Operations
+46,HSHO015,Stationery (excluding school supplies),Household Operations
+47,HSHO016,Other paper supplies,Household Operations
+48,HSHO017,Plastic and foil supplies,Household Operations
+49,HSHO018,Garden supplies and services,Household Operations
+50,HSHO021,"Groundskeeping services, snow and garbage removal",Household Operations
+51,HSHO019,"Nursery and greenhouse stock, cut flowers, decorative plants and seeds",Household Operations
+52,HSHO020,Fertilizers/herbicides/insecticides/pesticides/soil/soil conditioners,Household Operations
+53,HSHO022,Other household supplies,Household Operations
+54,HSCS030,Communications,Household Operations
+55,HSCS003,Telephone services and equipment,Household Operations
+56,HSCS004,Landline telephone services,Household Operations
+57,HSCS005,Cell phone and pager services,Household Operations
+58,HSCS021,Telephones and other equipment,Household Operations
+59,HSCS007,Internet access services,Household Operations
+60,HSCS008,Digital services,Household Operations
+61,HSCS020,"Postal, courier, delivery and other communication services",Household Operations
+62,HSHO002,Domestic and other custodial services (excluding child care),Household Operations
+63,HSHO003,Pet expenses,Household Operations
+64,HSHO052,Pet food and pet-related goods,Household Operations
+65,HSHO050,Purchase of pets,Household Operations
+66,HSHO006,Veterinarian and other services,Household Operations
+67,HSCC001,Child care,Household Operations
+68,HSCC021,Child care outside the home,Household Operations
+69,HSCC022,Child care in the home,Household Operations
+70,HSHF001,Household furnishings and equipment,House Furnishings
+71,HSHF002,Household furnishings,House Furnishings
+72,HSHF003,Furniture,House Furnishings
+73,HSHF004,"Rugs, mats and under-padding",House Furnishings
+74,HSHF005A,"Works of art, carvings and other decorative ware",House Furnishings
+75,HSHF006,Linens,House Furnishings
+76,HSHF008,"Other household furnishings (curtains, mirrors and picture frames)",House Furnishings
+77,HSHF007,Lamps and lampshades,House Furnishings
+78,HSHF008B,Curtains and interior blinds,House Furnishings
+79,HSHF008C,"Glass mirrors, mirrors and picture frames",House Furnishings
+80,HSHF008A,All other household furnishings,House Furnishings
+81,HSHE001,Household equipment,House Furnishings
+82,HSHE002,Household appliances,House Furnishings
+83,HSHE008,"Room air conditioners, portable humidifiers and dehumidifiers",House Furnishings
+84,HSHE050,Refrigerators and freezers,House Furnishings
+85,HSHE051,Microwave ovens and cooking appliances,House Furnishings
+86,HSHE052,"Washers, dryers and dishwashers",House Furnishings
+87,HSHE009,Other electric equipment and appliances,House Furnishings
+88,HSHE009A,All other electric equipment and appliances,House Furnishings
+89,HSHE009B,Small electric food preparation appliances,House Furnishings
+90,HSHE009C,"Sewing machines, vacuum cleaners and other rug cleaning equipment",House Furnishings
+91,HSHE009D,Attachments and parts for major appliances,House Furnishings
+92,HSHE010,Other household equipment,House Furnishings
+93,HSHE011,Home and workshop tools and equipment,House Furnishings
+94,HSHE031,Power tools and equipment,House Furnishings
+95,HSHE011B,Other tools,House Furnishings
+96,HSHE011C,Hardware,House Furnishings
+97,HSHE012,"Lawn, garden and snow-removal equipment and tools",House Furnishings
+98,HSHE032,"Power lawn, garden and snow-removal equipment",House Furnishings
+99,HSHE012B,"Other lawn, garden and snow-removal tools and equipment attachments",House Furnishings
+100,HSHE012C,Parts and accessories for garden tools,House Furnishings
+101,HSHE013,Non-electric kitchen and cooking equipment,House Furnishings
+102,HSHE013A,Other non-electric kitchen and cooking equipment,House Furnishings
+103,HSHE013B,"Cutlery, flatware and silverware",House Furnishings
+104,HSHE015,"Other household equipment, parts and accessories",House Furnishings
+105,HSHE014,Luggage,House Furnishings
+106,HSHE015A,"All other household equipment, parts and accessories",House Furnishings
+107,HSHE015B,Home security equipment,House Furnishings
+108,HSHE017,Maintenance/rental/repairs/services related to household furnishings/equipment,House Furnishings
+109,HSHE020,Services related to household furnishings and equipment,House Furnishings
+110,HSHE023,Home security services,House Furnishings
+111,HSHE024,Rental of heating equipment,House Furnishings
+112,HSTR001,Transportation,Transportation
+113,HSTR002,Private transportation,Transportation
+114,HSTR003,Private use vehicles,Transportation
+115,HSTR004,Purchase of vehicles,Transportation
+116,HSTR005,Purchase of automobiles,Transportation
+117,HSTR006,Purchase of vans and mini-vans,Transportation
+118,HSTR007,Purchase of trucks and sports utility vehicles,Transportation
+119,HSTR008,Accessories for vehicles,Transportation
+120,HSTR058,Accessories for vehicles (excluding children's car and booster seats),Transportation
+121,HSTR009,Children's car seats and booster seats,Transportation
+122,HSTR010,"Regular and other leasing fees for automobiles, trucks and vans",Transportation
+123,HSTR011,"Regular leasing fees for automobiles, trucks and vans",Transportation
+124,HSTR012,Regular fees for leased automobiles,Transportation
+125,HSTR112,Regular fees for leased vans and trucks,Transportation
+126,HSTR013,Regular fees for leased vans,Transportation
+127,HSTR014,Regular fees for leased trucks,Transportation
+128,HSTR015,Other leasing costs for vehicles,Transportation
+129,HSTR020,Rented vehicles,Transportation
+130,HSTR030,Vehicle operations,Transportation
+131,HSTR031,Vehicle registration fees,Transportation
+132,HSTR085,Public and private vehicle insurance premiums,Transportation
+133,HSTR033,"Tires, batteries, and other parts and supplies for vehicles",Transportation
+134,HSTR034,Maintenance and repairs of vehicles,Transportation
+135,HSTR038,Parking costs,Transportation
+136,HSTR039,"Drivers' licences and tests, and driving lessons",Transportation
+137,HSTR040,Drivers' licences and tests,Transportation
+138,HSTR041,Driving lessons,Transportation
+139,HSTR071,"Vehicle operation, security and communication services",Transportation
+140,HSTR036,Gas and other fuels,Transportation
+141,HSTR070,Public transportation,Transportation
+142,HSTR051,"City or commuter bus, subway, street car and commuter train",Transportation
+143,HSTR052,Taxi,Transportation
+144,HSTR059,Peer-to-peer ride services,Transportation
+145,HSTR053,Other local passenger transportation,Transportation
+146,HSTR054,Airplane,Transportation
+147,HSTR055,Inter-city bus,Transportation
+148,HSTR056,Other inter-city passenger transportation services,Transportation
+149,HSTR056A,All other inter-city passenger transportation services,Transportation
+150,HSTR056B,Train,Transportation
+151,HSTR060,Household moving and storage services,Transportation
+152,HSHC001,Health care,Health Care
+153,HSHC002,Direct costs to the household for health care,Health Care
+154,HSHC064,"Prescribed medicines, pharmaceutical products/cannabis for medical use",Health Care
+155,HSHC003,Prescribed medicines and pharmaceutical products,Health Care
+156,HSHC063,Cannabis for medical use,Health Care
+157,HSHC004,Non-prescribed medicines/pharmaceutical products/health care supplies,Health Care
+158,HSHC044,Health care supplies and equipment,Health Care
+159,HSHC041,Health care equipment,Health Care
+160,HSHC053,Other health care equipment,Health Care
+161,HSHC052,Major health care equipment,Health Care
+162,HSHC040,Health care supplies,Health Care
+163,HSHC004A,Non-prescribed medicines and pharmaceutical products,Health Care
+164,HSHC005,Health care services,Health Care
+165,HSHC006,Health care practitioners (excluding general practitioners/specialists),Health Care
+166,HSHC006A,Health care practitioners in the home,Health Care
+167,HSHC006B,Health care practitioners outside the home,Health Care
+168,HSHC007,Health care by general practitioners and specialists,Health Care
+169,HSHC008,"Weight control programs, quit-smoking programs/other medical services",Health Care
+170,HSHC009,"Hospital care, nursing homes, and other residential care facilities",Health Care
+171,HSHC010,Eye-care goods and services,Health Care
+172,HSHC012,Prescription eye wear,Health Care
+173,HSHC014,Eye-care services,Health Care
+174,HSHC027,Non-prescription eye wear and other eye-care goods,Health Care
+175,HSHC026,Non-prescription eye wear (including sunglasses),Health Care
+176,HSHC013,Other eye-care goods,Health Care
+177,HSHC015,Dental services,Health Care
+178,HSHC022,Private health insurance plan premiums,Health Care
+179,HSHC061,Private health and dental plan premiums,Health Care
+180,HSHC025,Accident or disability insurance premiums,Health Care
+181,HSPC001,Personal care,Personal Care
+182,HSPC002,Personal care products,Personal Care
+183,HSPC003,Hair care products,Personal Care
+184,HSPC004,"Makeup, skin care, manicure and fragrance products",Personal Care
+185,HSPC004A,"Makeup, skin care and manicure products",Personal Care
+186,HSPC004B,Fragrance products,Personal Care
+187,HSPC005,Personal deodorants,Personal Care
+188,HSPC006,Body soaps,Personal Care
+189,HSPC007,Oral hygiene products,Personal Care
+190,HSPC008,Disposable diapers,Personal Care
+191,HSPC030,Other personal care supplies and equipment,Personal Care
+192,HSPC009,Electric hair-styling and personal care appliances,Personal Care
+193,HSPC011,Feminine hygiene products,Personal Care
+194,HSPC012,All other personal care supplies and equipment,Personal Care
+195,HSPC020,Personal care services,Personal Care
+196,HSPC021,Hair grooming services,Personal Care
+197,HSPC023,Other personal care services,Personal Care
+198,HSRE001,Recreation,Recreation
+199,HSRE030,Recreational equipment and related services,Recreation
+200,HSRE125,"Sports, athletic and recreational equipment and related services",Recreation
+201,HSRE128,"Rental, maintenance/repairs of sports, athletic/recreational equipment",Recreation
+202,HSRE003,"Sports, athletic and recreation equipment",Recreation
+203,HSRE010,Computer equipment and supplies,Recreation
+204,HSRE012,Computer software and video game systems,Recreation
+205,HSRE013,Computer software,Recreation
+206,HSRE014,Video game systems and parts for personal computers,Recreation
+207,HSRE111,App downloads,Recreation
+208,HSRE112,Game downloads,Recreation
+209,HSRE015,Computer supplies and other equipment,Recreation
+210,HSRE011,Computer hardware,Recreation
+211,HSRE110,Tablet computers,Recreation
+212,HSRE114,E-book readers,Recreation
+213,HSRE119,Wearable electronic devices,Recreation
+214,HSRE016,Photographic goods and services,Recreation
+215,HSRE120,"Camcorders, cameras, parts, accessories and related equipment",Recreation
+216,HSRE020,Photographic services,Recreation
+217,HSRE004,Outdoor play equipment and accessories,Recreation
+218,HSRE005,Children's toys,Recreation
+219,HSRE006,Video game systems and accessories,Recreation
+220,HSRE007,Art and craft materials,Recreation
+221,HSRE032,Other recreational equipment,Recreation
+222,HSRE021,"Musical instruments, parts and accessories",Recreation
+223,HSRE023,"Camping, picnic equipment and accessories",Recreation
+224,HSRE024,Supplies and parts for recreational equipment,Recreation
+225,HSRE040,Home entertainment equipment and services,Recreation
+226,HSRE041,Home entertainment equipment,Recreation
+227,HSRE080,Audio equipment (portable and non-portable) and home theatre systems,Recreation
+228,HSRE045,Video equipment,Recreation
+229,HSRE082,"DVD players, Blu-Ray players and other video equipment and accessories",Recreation
+230,HSRE116,Televisions,Recreation
+231,HSRE076,"Pre-recorded media, music downloads and blank audio and video media",Recreation
+232,HSRE050,"Pre-recorded audio and video cassette tapes, compact discs and DVDs",Recreation
+233,HSRE051M,"Blank audio and video tapes, CDs, DVDs and iTunes and other music downloads",Recreation
+234,HSRE052,Home entertainment services,Recreation
+235,HSRE060,Recreational services,Recreation
+236,HSRE061,Entertainment,Recreation
+237,HSRE067,Television and satellite radio services,Recreation
+238,HSRE062,Movie theatres,Recreation
+239,HSRE063,Live sporting and performing arts events,Recreation
+240,HSRE064,Live sporting events,Recreation
+241,HSRE065,Live performing arts events,Recreation
+242,HSRE066,"Admission fees to museums, zoos, and other sites",Recreation
+243,HSRE091,Use of recreational facilities and fees - other recreational activities,Recreation
+244,HSRE146,Sporting services,Recreation
+245,HSRE073,Children's camps,Recreation
+246,HSRE074,Package trips,Recreation
+247,HSRE142,Other recreational services,Recreation
+248,HSRV001,Recreational vehicles and associated services,Recreation
+249,HSRV020,Purchase of recreational vehicles,Recreation
+250,HSRV003,Purchase of motorcycles and snowmobiles,Recreation
+251,HSRV003A,Purchase of motorcycles,Recreation
+252,HSRV003B,Purchase of snowmobiles,Recreation
+253,HSRV004,Purchase of all-terrain vehicles,Recreation
+254,HSRV007,Purchase of bicycles,Recreation
+255,HSRV005,Purchase of other recreational vehicles,Recreation
+256,HSRV005B,Purchase of fifth wheel/travel trailers,Recreation
+257,HSRV005M1,Non-motorized watercrafts and Motorized watercrafts,Recreation
+258,HSRV005M2,"Tent trailers, travel trailers, truck campers, motorhomes, utility trailers and other types of recreational vehicles",Recreation
+259,HSRV010,Operation of recreational vehicles,Recreation
+260,HSRV011,Insurance premiums for recreational vehicles,Recreation
+261,HSRV012,Registration fees and licenses for recreational vehicles,Recreation
+262,HSRV016,"Parking, storage fees and other dues",Recreation
+263,HSRV081,Other expenses for recreational vehicles,Recreation
+264,HSRV013,Expenses for rented or leased recreational vehicles,Recreation
+265,HSRV021,Supplies and parts for recreational vehicles,Recreation
+266,HSRV022,Maintenance and repairs for recreational vehicles,Recreation
+267,HSRO001,Reading materials and other printed matter,Reading Material
+268,HSRO002,Newspapers,Reading Material
+269,HSRO003,Magazines and periodicals,Reading Material
+270,HSRO005,"Maps, sheet music and other printed matter",Reading Material
+271,HSRO004,Books and E-Books (excluding school books),Reading Material
+272,HSRO010,Services related to reading materials (e.g. photocopying/library fees),Reading Material
+273,HSTA018,"Tobacco products, alcoholic beverages and cannabis for non-medical use",Tobacco and alcohol
+274,HSTA005,Alcoholic beverages,Tobacco and alcohol
+275,HSTA006,Alcoholic beverages served on licensed premises and in restaurants,Tobacco and alcohol
+276,HSTA007,Alcoholic beverages purchased from stores,Tobacco and alcohol
+277,HSTA009,Beer,Tobacco and alcohol
+278,HSTA010,Other alcoholic beverages purchased from stores,Tobacco and alcohol
+279,HSTA008,Self-made alcoholic beverages,Tobacco and alcohol
+280,HSTA002,Tobacco products and smokers' supplies,Tobacco and alcohol
+281,HSTA020,Cigarettes,Tobacco and alcohol
+282,HSTA015,"Other tobacco products, smokers' supplies and e-cigarettes",Tobacco and alcohol
+283,HSTA016,Cannabis for non-medical use,Tobacco and alcohol
+284,HSGC001,Games of chance,Games of Chance
+285,HSGC002,Government-run lotteries,Games of Chance
+286,HSGC003,Other games of chance,Games of Chance
+287,HSGC010,"Casinos, bingos and gaming machines",Games of Chance
+288,HSGC003A,"Casinos, slot machines, and video lottery terminals",Games of Chance
+289,HSGC003B,Bingos,Games of Chance
+290,HSGC003C,Non-government lotteries and raffle tickets,Games of Chance
+291,HSME001,Miscellaneous expenditures,Miscellaneous expenditures
+292,HSME040,Other miscellaneous goods and services,Miscellaneous expenditures
+293,HSME036,Fines,Miscellaneous expenditures
+294,HSME012,Legal services not related to dwellings,Miscellaneous expenditures
+295,HSME045,Dues to unions and professional associations,Miscellaneous expenditures
+296,HSME014,Contributions and dues for social clubs and other organizations,Miscellaneous expenditures
+297,HSME037,Funeral services,Miscellaneous expenditures
+298,HSME016,Government services,Miscellaneous expenditures
+299,HSME017,Wholesale/retail memberships,Miscellaneous expenditures
+300,HSME024,Convenience fees,Miscellaneous expenditures
+301,HSME021,Other goods and services,Miscellaneous expenditures
+302,HSME019,Recycling fees and other environmental fees,Miscellaneous expenditures
+303,HSME020,Other general expenditures,Miscellaneous expenditures
+304,HSME039,Financial services,Miscellaneous expenditures
+305,HSME030,Service charges for banks and other financial institutions,Miscellaneous expenditures
+306,HSME038,Administration fees for brokers and stock and bond commissions,Miscellaneous expenditures
+307,HSME006,Other financial services,Miscellaneous expenditures
+308,HSSH001,Shelter,Shelter
+309,HSSH002,Principal accommodation,Shelter
+310,HSSH003,Rented principal residence,Shelter
+311,HSSH004,Rent,Shelter
+312,HSSH053,Annual rent payment,Shelter
+313,HSSH054,Additional amounts paid to the landlord,Shelter
+314,HSSH005,Tenants' repairs and improvements,Shelter
+315,HSSH006,Tenants' insurance premiums,Shelter
+316,HSSH007,Parking at rented living quarters (excl. amounts reported with rent),Shelter
+317,HSSH010,Owned principal residence,Shelter
+318,HSSH011,Mortgage paid on the owned principal residence,Shelter
+319,HSSH013,Condominium fees for owned principal residence,Shelter
+320,HSSH014,Property and school taxes for owned principal residence,Shelter
+321,HSSH015,Homeowners' property insurance for owned principal residence,Shelter
+322,HSSH016,Other expenditures for owned principal residence,Shelter
+323,HSSH017,Real estate commissions paid for the sale of principal residence(s),Shelter
+324,HSSH018,Legal charges related to owned principal residence,Shelter
+325,HSSH019,Premiums for mortgage-related insurance for owned principal residence,Shelter
+326,HSSH020,All other expenses related to the owned principal residence,Shelter
+327,HSSH021,"Registration fees, renewal fees and early renewal or closing penalties",Shelter
+328,HSSH022,Land transfer taxes and land registration fees for purchased principial residences,Shelter
+329,HSSH082,Repairs and maintenance of all owned principal residences,Shelter
+330,HSOI040Z,Spending on non-contract work/labour of total spending for repairs/maintenance,Shelter
+331,HSOI040,Spending on contract work/labour of total spending for repairs/maintenance,Shelter
+332,HSSH082B,Repairs and maintenance to owned principal residence,Shelter
+332,HSSH082B,Repairs and maintenance to owned principal residence,Shelter
+333,HSRM002A,Exterior painting or staining,Remodeling and Repairs
+334,HSRM002B,Interior painting or wallpapering,Remodeling and Repairs
+335,HSRM003A,Interior walls and ceilings,Remodeling and Repairs
+336,HSRM003B,Caulking and weather stripping,Remodeling and Repairs
+337,HSRM004,Insulation,Remodeling and Repairs
+338,HSRM005,"Fences, driveways, patios, swimming pools, hot tubs and ponds",Remodeling and Repairs
+339,HSRM006,Roofs,Remodeling and Repairs
+340,HSRM007,Eavestroughing,Remodeling and Repairs
+341,HSRM008M,"Exterior walls, siding, soffits, facia, chimneys and concrete basement floor",Remodeling and Repairs
+342,HSRM009A,Windows and exterior doors,Remodeling and Repairs
+343,HSRM009B,Interior doors,Remodeling and Repairs
+344,HSRM010,Hard surface flooring and wall-to-wall carpeting,Remodeling and Repairs
+345,HSRM011,Plumbing fixtures and equipment,Remodeling and Repairs
+346,HSRM012,Septic systems and wells,Remodeling and Repairs
+347,HSRM013,Heating and/or air conditioning equipment,Remodeling and Repairs
+348,HSRM015M,Electrical fixtures and equipment and home security devices,Remodeling and Repairs
+349,HSRM016,Other repairs and maintenance,Remodeling and Repairs
+350,HSSH030,"Water, fuel and electricity for principal accommodation",Shelter
+351,HSSH030A,Water and sewage for principal accommodation,Shelter
+352,HSSH030B,Electricity for principal accommodation,Shelter
+353,HSSH030C,Natural gas for principal accommodation,Shelter
+354,HSSH034,Other fuel for principal accommodation,Shelter
+355,HSSH034A,Propane for principal accommodation,Shelter
+356,HSSH034B,"Heating oil, wood and other fuel for principal accommodation",Shelter
+357,HSSH040,Other accommodation,Shelter
+358,HSSH041,Owned secondary residences,Shelter
+359,HSSH042,Mortgage paid on owned secondary residences,Shelter
+360,HSSH044,Property insurance for owned secondary residences,Shelter
+361,HSSH046,Other expenses for owned secondary residences,Shelter
+362,HSSH046A,Other expenses associated with owned secondary residences,Shelter
+363,HSSH046B,Real estate commissions paid for the sale of secondary residence(s),Shelter
+364,HSSH046C,Repairs and maintenance of owned secondary residences,Shelter
+365,HSSH060,Communication and security services for owned secondary residences,Shelter
+366,HSSH061,"Property/school taxes, water/sewage charges for owned secondary residences",Shelter
+367,HSSH062,Electricity and fuel for owned secondary residences,Shelter
+368,HSSH047,Other owned properties,Shelter
+369,HSSH047A,Mortgage paid on other owned property(ies),Shelter
+370,HSSH047C,Repairs and improvements of other owned property(ies),Shelter
+371,HSSH047M,Real estate commissions paid for the sale and other expenses associated with other owned property,Shelter
+372,HSSH050,Accommodation away from home,Shelter
+373,HSSH051,Hotels and motels,Shelter
+374,HSSH052,Other accommodation away from home,Shelter
+375,HSCL030,Clothing and accessories,Clothing
+376,HSCL029,Women's and girls' wear (14 years and over),Clothing
+377,HSCL027,Clothing (women and girls),Clothing
+378,HSCL028,Footwear (women and girls),Clothing
+379,HSCL026,Men's and boys' wear (14 years and over),Clothing
+380,HSCL024,Clothing (men and boys),Clothing
+381,HSCL025,Footwear (men and boys),Clothing
+382,HSCL023,Children's wear (under 14 years),Clothing
+383,HSCL021,Clothing and cloth diapers (children),Clothing
+384,HSCL022,Footwear (children),Clothing
+385,HSCL020,Athletic footwear,Clothing
+386,HSCL019,Accessories,Clothing
+387,HSCL018,Watches and jewellery,Clothing
+388,HSCL017,"Clothing material, yarn, thread and other notions",Clothing
+389,HSCL016,Clothing services,Clothing
+390,HSCL014,"Laundromats, dry-cleaning and laundry services",Clothing
+391,HSCL015,"Services for clothing, footwear and jewellery",Clothing
+392,HSED002,Education,Education
+393,HSED003,Tuition fees,Education
+394,HSED004,"Tuition fees for kindergarten, elementary and secondary schools",Education
+395,HSED005,Tuition fees for university,Education
+396,HSED006,Tuition fees for other post-secondary education,Education
+397,HSED007,Other educational services,Education
+398,HSED008,Other courses and lessons,Education
+399,HSED030,Textbooks and school supplies,Education
+400,HSED025,School supplies,Education
+401,HSED024,Textbooks,Education
+402,HSEP011,Personal insurance premiums and retirement/pension fund contributions,Premiums and pension contributions
+403,HSEP012,Employment insurance and Quebec parental insurance premiums,Premiums and pension contributions
+404,HSEP015,Retirement and pension fund payments,Premiums and pension contributions
+405,HSEP013,Canada and Quebec pension plan contributions,Premiums and pension contributions
+406,HSEP014,Employer pension plan contributions,Premiums and pension contributions
+407,HSEP007,"Premiums on life, term and endowment insurance",Premiums and pension contributions
+408,HSMG001,"Gifts of money, support payments and charitable contributions",Money Gifts
+409,HSMG002,Gifts of money and support payments,Money Gifts
+410,HSMG003,Gifts of money to persons living in Canada,Money Gifts
+411,HSMG004,Gifts of money to persons living outside Canada,Money Gifts
+412,HSMG010,Alimony and child support,Money Gifts
+413,HSMG009,Charitable contributions,Money Gifts
+414,HSTE001ZB,Total Non Current Consumption,Real Estate
+415,HSWH040,Net purchase price of owned residences,Real Estate
+416,HSWH021,Purchase price of principal residence(s) (bought in survey year),Real Estate
+417,HSWH022,Selling price of principal residence(s) (sold in survey year),Real Estate
+418,HSWH041,Net purchase price of owned secondary residences,Real Estate
+419,HSWH026,Purchase price of secondary residences (bought in survey year),Real Estate
+420,HSWH027,Selling price of secondary residences (sold in survey year),Real Estate
+421,HSWH042,Net purchase price of other owned properties,Real Estate
+422,HSWH031,Purchase price of other properties (bought in survey year),Real Estate
+423,HSWH032,Selling price of other properties (sold in survey year),Real Estate
+424,HSWH050,Owned principal residence improvements and renovations,Real Estate
+425,HSOI030Z,Spending on non-contract work/labour of total spending on improvements/renovations,Real Estate
+426,HSOI030,Spending on contract work/labour of total spending on improvements/renovations,Real Estate
+427,HSWH028,Improvements and renovations of secondary residences,Real Estate
+428,HSWH050B,Improvements and alterations to owned principal residence,Real Estate
+429,HSWH003A,Exterior additions or extensions,Real Estate
+430,HSWH003B,Interior additions or extensions,Real Estate
+431,HSWH005,Insulation,Real Estate
+432,HSWH006,"Fences, driveways, patios, swimming pools, hot tubs and major landscaping projects",Real Estate
+433,HSWH007,Complete re-roofing,Real Estate
+434,HSWH008,Eavestroughing,Real Estate
+435,HSWH009M,"Concrete basement floor, exterior walls, siding, soffits, facia, chimneys and foundations",Real Estate
+436,HSWH010A,Windows and exterior doors,Real Estate
+437,HSWH010B,Interior windows and doors,Real Estate
+438,HSWH011,Hard surface flooring,Real Estate
+439,HSWH012,Plumbing fixtures and equipment,Real Estate
+440,HSWH013,Septic systems and wells,Real Estate
+441,HSWH014,Heating and/or air conditioning equipment,Real Estate
+442,HSWH015,Home Security Devices,Real Estate
+443,HSWH016,Central vacuums,Real Estate
+444,HSWH017,Other,Real Estate
+445,HSWH100,Renovating/remodelling of rooms,Real Estate
+446,HSWH101,Finishing the basement,Real Estate
