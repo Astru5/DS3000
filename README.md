@@ -1,7 +1,7 @@
 # DS3000
 DS3000 Group Project
 
-Data folder is structured as:
+Create the data folder structured below:
 
 ```
 data/
@@ -17,6 +17,8 @@ DemoStats_(DST)_2025_2025_GEO.csv
 HouseholdSpend_(HHS)_2025_GEO_P1.csv
 HouseholdSpend_(HHS)_2025_GEO_P2.csv
 ```
+
+After running `data_prep.ipynb`, `tableau.pkl` will be created in `processed/`.
 
 ## Useful Info
 
